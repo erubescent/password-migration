@@ -1,6 +1,6 @@
 # Password Migration Script 😈
 
-![License](https://img.shields.io/github/license/erubescent/password-migration?style=plastic) ![GitHub last commit](https://img.shields.io/github/last-commit/erubescent/password-migration?color=red&style=plastic) 
+[![License](https://img.shields.io/github/license/erubescent/password-migration?style=plastic)](/LICENSE) [![GitHub last commit](https://img.shields.io/github/last-commit/erubescent/password-migration?color=red&style=plastic)](https://github.com/erubescent/password-migration/commits/main)
 
 This script is designed to simplify the process of transferring passwords from a text file to a password manager. It allows for easy navigation through individual website data sets, ensuring a smooth and organized migration experience.
 
