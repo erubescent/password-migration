@@ -72,4 +72,4 @@ This script is released under the [MIT License](LICENSE).
 
 ## Support
 
-For any questions or concerns, please open an issue in the [GitHub repository](https://github.com/username/repository).
+For any questions or concerns, please [open an issue](https://github.com/erubescent/password-migration/issues). 🔥🔥🔥
